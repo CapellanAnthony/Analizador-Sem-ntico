@@ -1,0 +1,13 @@
+#           	Dato Objeto       	Dato Fuente      	Dato Operador    	
+0       	T1       	CE1       	=       	
+1       	IDE02       	T1       	OPR01       	
+2       	T2       	CE2       	=       	
+3       	IDE03       	T2       	OPR01       	
+4       	IDETEMP       	CE3       	OPR06       	
+5       	TR1       	TRUE       	7       	
+6       	TR1       	FALSE       	11       	
+7       	T3       	IDE01       	=       	
+8       	T3       	IDE01       	OPA01       	
+9       	IDE01       	T3       	OPR01       	
+10       	JMP       	null       	4       	
+11       	FIN       	FIN       	FIN       	
